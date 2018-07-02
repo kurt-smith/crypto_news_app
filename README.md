@@ -17,6 +17,25 @@ This service has dependencies on the following services:
 1. Redis
 1. Sidekiq
 
+### Docker
+Follow the Docker [Getting Started](https://docs.docker.com/get-started/) guide to get `docker` and `docker-compose`.  This project contains helper scripts to build and test services.
+
+1. Run the test suite: `$ script/test`
+
+#### Local development
+To start the application using docker compose locally:
+
+1. Start the services: `$ docker-compose up --build`
+1. Access via browser: `$ open http://localhost:3000`
+
+### Local development (without Docker)
+To start the application from project folder:
+
+1. Start Redis: `$ redis-server`
+1. Start Sidekiq: `$ bundle exec sidekiq`
+1. Start App: `$ rails s`
+1. Access via browser: `$ open http://localhost:3000`
+
 ### Environment Variables
 
 | Variable       |  Description   | Default                 |
