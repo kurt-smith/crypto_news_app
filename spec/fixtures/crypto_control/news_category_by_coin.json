@@ -1,0 +1,120 @@
+{
+  "analysis": [{
+    "hotness": 70856.11542332519,
+    "activityHotness": 0.10861776962410524,
+    "primaryCategory": "Analysis",
+    "words": 1088,
+    "similarArticles": [],
+    "coins": [{
+      "_id": "59d21e9b83a0523906a45dc5",
+      "name": "EOS",
+      "slug": "eos",
+      "tradingSymbol": "eos"
+    }, {
+      "_id": "59d21e9b83a0523906a45dcb",
+      "name": "Stellar Lumens",
+      "slug": "stellar",
+      "tradingSymbol": "xlm"
+    }, {
+      "_id": "59d21e9b83a0523906a45df4",
+      "name": "TRON",
+      "slug": "tron",
+      "tradingSymbol": "trx"
+    }, {
+      "_id": "59d21e9b83a0523906a45db0",
+      "name": "Litecoin",
+      "slug": "litecoin",
+      "tradingSymbol": "ltc"
+    }, {
+      "_id": "59cb59e81c073f09e76f614b",
+      "name": "Bitcoin",
+      "slug": "bitcoin",
+      "tradingSymbol": "btc"
+    }],
+    "_id": "5b397640104844000fd4f3be",
+    "description": "It’s no secret that EOS is a promising project but it isn’t short of drama. After several voting issues, RAM speculation dominates headlines.",
+    "publishedAt": "2018-07-02T00:02:27.000Z",
+    "title": "EOS, Litecoin, Stellar Lumens, Tron and IOTA Technical Analysis",
+    "url": "https://cryptocontrol.io/r/api/article/5b397640104844000fd4f3be?ref=5b3a5698104844000fd6a39c",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b397640104844000fd4f3be?ref=5b3a5698104844000fd6a39c",
+    "originalImageUrl": "https://s3.amazonaws.com/main-newsbtc-images/2018/07/01180959/puzzle-2500328_1920.jpg"
+  }, {
+    "hotness": 70855.14740096488,
+    "activityHotness": 0.10582689081239759,
+    "primaryCategory": "Analysis",
+    "words": 506,
+    "similarArticles": [],
+    "coins": [{
+      "_id": "59cb59e81c073f09e76f614b",
+      "name": "Bitcoin",
+      "slug": "bitcoin",
+      "tradingSymbol": "btc"
+    }, {
+      "_id": "59cb59f9b0836b0a63aebc7c",
+      "name": "Ethereum",
+      "tradingSymbol": "eth",
+      "slug": "ethereum"
+    }, {
+      "_id": "59d21e9b83a0523906a45db0",
+      "name": "Litecoin",
+      "slug": "litecoin",
+      "tradingSymbol": "ltc"
+    }, {
+      "_id": "59d21e9b83a0523906a45dc5",
+      "name": "EOS",
+      "slug": "eos",
+      "tradingSymbol": "eos"
+    }],
+    "_id": "5b391c65104844000fd43e4d",
+    "description": "At press time, the father of cryptocurrency is standing its ground at $6,300. The past two weeks have been a series of up-and-down dilemmas as bitcoin has fallen to $6,200, then $6,100, then down to $5,800, putting many investors in a state of terrible unease. Its sudden spike to the $6,300 range is giving many […]\n",
+    "publishedAt": "2018-07-01T18:14:58.000Z",
+    "title": "Bitcoin Price Watch: Currency Remains At $6,300 | NullTX",
+    "url": "https://cryptocontrol.io/r/api/article/5b391c65104844000fd43e4d?ref=5b3a5698104844000fd6a39c",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b391c65104844000fd43e4d?ref=5b3a5698104844000fd6a39c",
+    "originalImageUrl": "https://nulltx.com/wp-content/uploads/2018/07/daily-chart.png"
+  }, {
+    "hotness": 70844.27773174451,
+    "activityHotness": 0.27101878155342435,
+    "primaryCategory": "Analysis",
+    "words": 1115,
+    "similarArticles": [],
+    "coins": [{
+      "_id": "59d21e9b83a0523906a45db0",
+      "name": "Litecoin",
+      "slug": "litecoin",
+      "tradingSymbol": "ltc"
+    }, {
+      "_id": "59d21e9b83a0523906a45db4",
+      "name": "IOTA",
+      "slug": "iota",
+      "tradingSymbol": "miota"
+    }, {
+      "_id": "59d21e9b83a0523906a45dc5",
+      "name": "EOS",
+      "slug": "eos",
+      "tradingSymbol": "eos"
+    }, {
+      "_id": "59d21e9b83a0523906a45dcb",
+      "name": "Stellar Lumens",
+      "slug": "stellar",
+      "tradingSymbol": "xlm"
+    }, {
+      "_id": "59d21e9b83a0523906a45df4",
+      "name": "TRON",
+      "slug": "tron",
+      "tradingSymbol": "trx"
+    }, {
+      "_id": "59d21e9b83a0523906a45e18",
+      "name": "Triggers",
+      "slug": "triggers",
+      "tradingSymbol": "trig"
+    }],
+    "_id": "5b357fd45b113200191a046e",
+    "description": "Although we are yet to see confirmations, the fact that most alt coin prices as Litecoin, IOTA, EOS and to some degree Stellar Lumens are stable.",
+    "publishedAt": "2018-06-29T00:02:25.000Z",
+    "title": "EOS, Litecoin, Stellar Lumens, Tron and IOTA Technical Analysis",
+    "url": "https://cryptocontrol.io/r/api/article/5b357fd45b113200191a046e?ref=5b3a5698104844000fd6a39c",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b357fd45b113200191a046e?ref=5b3a5698104844000fd6a39c",
+    "originalImageUrl": "https://s3.amazonaws.com/main-newsbtc-images/2018/06/28185131/law-1991004_1920.jpg"
+  }]
+}

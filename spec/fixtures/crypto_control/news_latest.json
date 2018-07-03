@@ -1,0 +1,103 @@
+[{
+  "hotness": 70858.68355952756,
+  "activityHotness": 0.11397619423751587,
+  "primaryCategory": "Exchanges",
+  "words": 833,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59cb59e81c073f09e76f614b",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "tradingSymbol": "btc"
+  }, {
+    "_id": "59cb59f9b0836b0a63aebc7c",
+    "name": "Ethereum",
+    "tradingSymbol": "eth",
+    "slug": "ethereum"
+  }, {
+    "_id": "59d21e9b83a0523906a45db0",
+    "name": "Litecoin",
+    "slug": "litecoin",
+    "tradingSymbol": "ltc"
+  }, {
+    "_id": "59d21e9b83a0523906a45db6",
+    "name": "Ethereum Classic",
+    "slug": "ethereum-classic",
+    "tradingSymbol": "etc"
+  }, {
+    "_id": "59d21e9b83a0523906a45db3",
+    "name": "NEO",
+    "slug": "neo",
+    "tradingSymbol": "neo"
+  }, {
+    "_id": "59d21e9b83a0523906a45daf",
+    "name": "Bitcoin Cash",
+    "slug": "bitcoin-cash",
+    "tradingSymbol": "bch"
+  }, {
+    "_id": "59d21e9b83a0523906a45db9",
+    "name": "Qtum",
+    "slug": "qtum",
+    "tradingSymbol": "qtum"
+  }],
+  "_id": "5b3a4517104844000fd681a8",
+  "description": "These cryptocurrency exchanges provide a quality trading experience while catering to investors in the United States.",
+  "publishedAt": "2018-07-02T15:25:03.000Z",
+  "title": "The Top 6 Cryptocurrency Exchanges Available to U.S. Investors",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a4517104844000fd681a8?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a4517104844000fd681a8?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://sludgefeed.com/wp-content/uploads/2018/07/bitcoin-trading.jpg"
+}, {
+  "hotness": 70858.67022619423,
+  "activityHotness": 0.11397619423751587,
+  "primaryCategory": "General",
+  "words": 721,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59cb59e81c073f09e76f614b",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "tradingSymbol": "btc"
+  }, {
+    "_id": "59d21e9b83a0523906a45daf",
+    "name": "Bitcoin Cash",
+    "slug": "bitcoin-cash",
+    "tradingSymbol": "bch"
+  }, {
+    "_id": "59d8e9a749f28d5610567413",
+    "name": "Pulse",
+    "slug": "pulse",
+    "tradingSymbol": "pulse"
+  }],
+  "_id": "5b3a4511104844000fd68166",
+  "description": "The bitcoin markets have rallied after having produced 48 hours of steady consolidation following the recent bounce off support at approximately $5,800. Looking at the 24-hour volume rankings, Coinex has suddenly emerged as a strong market leader, claiming to have hosted $1.5 billion in trade in single day.",
+  "publishedAt": "2018-07-02T15:20:15.000Z",
+  "title": "Markets Update: Coinex Dominates Volume Rankings Amid Post-Bounce Consolidation",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a4511104844000fd68166?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a4511104844000fd68166?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://news.bitcoin.com/wp-content/uploads/2018/07/shutterstock_168782201.jpg"
+}, {
+  "hotness": 70858.66230509075,
+  "activityHotness": 0.11133286853070033,
+  "primaryCategory": "General",
+  "words": 414,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59d21e9b83a0523906a45dc5",
+    "name": "EOS",
+    "slug": "eos",
+    "tradingSymbol": "eos"
+  }, {
+    "_id": "59cb59e81c073f09e76f614b",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "tradingSymbol": "btc"
+  }],
+  "_id": "5b3a42a7104844000fd67e07",
+  "description": "All major currencies have once again secured some gains in the past 24 hours. That in itself is very surprising, as things were not looking all that great last night. For EOS price watchers, this current trend comes at an opportune time. With the value fast approaching $9 again, interesting things are bound to happen. […]\n",
+  "publishedAt": "2018-07-02T15:18:21.000Z",
+  "title": "EOS Price: Rocket is Heading to $9 and Beyond | NullTX",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a42a7104844000fd67e07?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a42a7104844000fd67e07?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://nulltx.com/wp-content/uploads/2018/06/eos-price-2.jpg"
+}]

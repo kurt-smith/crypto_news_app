@@ -26,6 +26,7 @@ module App
     DB_WAIT_QUEUE_TIMEOUT = ENV.fetch('DB_WAIT_QUEUE_TIMEOUT') { 5 }
     DB_CONNECT_TIMEOUT = ENV.fetch('DB_CONNECT_TIMEOUT') { 10 }
     DB_SOCKET_TIMEOUT = ENV.fetch('DB_SOCKET_TIMEOUT') { 5 }
+    CRYPTO_CONTROL_API_KEY = ENV.fetch('CRYPTO_CONTROL_API_KEY')
   end
 
   class Application < Rails::Application

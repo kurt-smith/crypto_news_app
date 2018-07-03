@@ -48,6 +48,9 @@ To start the application from project folder:
 | `DB_WAIT_QUEUE_TIMEOUT`  | DB Queue Timeout  | 5 |
 | `DB_CONNECT_TIMEOUT`  | DB Connection Timeout  | 10 |
 | `DB_SOCKET_TIMEOUT`  | DB Socket Timeout | 5 |
+| `CRYPTO_CONTROL_API_KEY`  | Crypto Control Api Key | - |
+
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.

@@ -1,0 +1,172 @@
+[{
+  "hotness": 70858.68355952756,
+  "activityHotness": 0.11397619423751587,
+  "primaryCategory": "Exchanges",
+  "words": 833,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59cb59e81c073f09e76f614b",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "tradingSymbol": "btc"
+  }, {
+    "_id": "59cb59f9b0836b0a63aebc7c",
+    "name": "Ethereum",
+    "tradingSymbol": "eth",
+    "slug": "ethereum"
+  }, {
+    "_id": "59d21e9b83a0523906a45db0",
+    "name": "Litecoin",
+    "slug": "litecoin",
+    "tradingSymbol": "ltc"
+  }, {
+    "_id": "59d21e9b83a0523906a45db6",
+    "name": "Ethereum Classic",
+    "slug": "ethereum-classic",
+    "tradingSymbol": "etc"
+  }, {
+    "_id": "59d21e9b83a0523906a45db3",
+    "name": "NEO",
+    "slug": "neo",
+    "tradingSymbol": "neo"
+  }, {
+    "_id": "59d21e9b83a0523906a45daf",
+    "name": "Bitcoin Cash",
+    "slug": "bitcoin-cash",
+    "tradingSymbol": "bch"
+  }, {
+    "_id": "59d21e9b83a0523906a45db9",
+    "name": "Qtum",
+    "slug": "qtum",
+    "tradingSymbol": "qtum"
+  }],
+  "_id": "5b3a4517104844000fd681a8",
+  "description": "These cryptocurrency exchanges provide a quality trading experience while catering to investors in the United States.",
+  "publishedAt": "2018-07-02T15:25:03.000Z",
+  "title": "The Top 6 Cryptocurrency Exchanges Available to U.S. Investors",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a4517104844000fd681a8?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a4517104844000fd681a8?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://sludgefeed.com/wp-content/uploads/2018/07/bitcoin-trading.jpg"
+}, {
+  "hotness": 70858.35676586485,
+  "activityHotness": 0.10676586484738149,
+  "primaryCategory": "Exchanges",
+  "words": 374,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59cb59e81c073f09e76f614b",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "tradingSymbol": "btc"
+  }, {
+    "_id": "59cb59f9b0836b0a63aebc7c",
+    "name": "Ethereum",
+    "tradingSymbol": "eth",
+    "slug": "ethereum"
+  }, {
+    "_id": "59d21e9b83a0523906a45db0",
+    "name": "Litecoin",
+    "slug": "litecoin",
+    "tradingSymbol": "ltc"
+  }],
+  "_id": "5b3a2a4d104844000fd64605",
+  "description": "Cryptocurrency exchange Binance which was holding the fort for being the top cryptocurrency exchange by trade volumes has got a new competitor and is not very well known to the world. In fact in last few sessions, it has overthrown Binance from the top spot, taking the industry watchers by surprise. The battle for the …",
+  "publishedAt": "2018-07-02T13:30:00.000Z",
+  "title": "CoinEx Trade Volume Surges 24000%, Surpasses Binance as Top Crypto Exchange - Crypto-News India",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a2a4d104844000fd64605?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a2a4d104844000fd64605?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://www.crypto-news.in/wp-content/uploads/2017/11/Exchange.jpg"
+}, {
+  "hotness": 70858.19445536337,
+  "activityHotness": 0.10769610411361284,
+  "primaryCategory": "General",
+  "words": 312,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59cb59e81c073f09e76f614b",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "tradingSymbol": "btc"
+  }, {
+    "_id": "59cb59f9b0836b0a63aebc7c",
+    "name": "Ethereum",
+    "tradingSymbol": "eth",
+    "slug": "ethereum"
+  }, {
+    "_id": "59d21e9b83a0523906a45db0",
+    "name": "Litecoin",
+    "slug": "litecoin",
+    "tradingSymbol": "ltc"
+  }, {
+    "_id": "59d21e9b83a0523906a45db4",
+    "name": "IOTA",
+    "slug": "iota",
+    "tradingSymbol": "miota"
+  }, {
+    "_id": "59d21e9b83a0523906a45daf",
+    "name": "Bitcoin Cash",
+    "slug": "bitcoin-cash",
+    "tradingSymbol": "bch"
+  }, {
+    "_id": "59cb5a047ab17a0b2ec00edf",
+    "name": "Ripple",
+    "tradingSymbol": "xrp",
+    "slug": "ripple"
+  }, {
+    "_id": "59d21e9b83a0523906a45db1",
+    "name": "Dash",
+    "slug": "dash",
+    "tradingSymbol": "dash"
+  }],
+  "_id": "5b3a1b88104844000fd62932",
+  "description": "An Austrian can now buy crypto like Ethereum, Bitcoin, IOTA, Litecoin, Komodo, Ripple, Dash and Bitcoin Cash in over 400 post office branches across Austria. 1,300 post partners are selling cryptos through Bitpanda which is one of Europe's leading retail exchanges for selling and purchasing cryptos.",
+  "publishedAt": "2018-07-02T12:31:14.000Z",
+  "title": "Austria Introduces Crypto to the Public",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a1b88104844000fd62932?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a1b88104844000fd62932?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://coinfrenzy.io/wp-content/uploads/2018/07/Austria-introduces-crypto-to-the-public-01.jpg"
+}, {
+  "hotness": 70859.59913623864,
+  "activityHotness": 0.10487901641694322,
+  "primaryCategory": "Exchanges",
+  "words": 331,
+  "similarArticles": [{
+    "_id": "5b3a187b104844000fd6229c",
+    "publishedAt": "2018-07-02T12:17:05.000Z",
+    "title": "Crypto Exchange BTCC Back to Business With New Plans ⋆ ZyCrypto",
+    "url": "https://cryptocontrol.io/r/api/article/5b3a187b104844000fd6229c?ref=5b3a5698104844000fd6a39c"
+  }, {
+    "_id": "5b39da42104844000fd5a5f4",
+    "publishedAt": "2018-07-02T06:00:05.000Z",
+    "title": "BTCC Relaunches Exchange Business With Its Own Token Plan - CoinDesk",
+    "url": "https://cryptocontrol.io/r/api/article/5b39da42104844000fd5a5f4?ref=5b3a5698104844000fd6a39c"
+  }],
+  "coins": [{
+    "_id": "59cb59e81c073f09e76f614b",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "tradingSymbol": "btc"
+  }, {
+    "_id": "59cb59f9b0836b0a63aebc7c",
+    "name": "Ethereum",
+    "tradingSymbol": "eth",
+    "slug": "ethereum"
+  }, {
+    "_id": "59d21e9b83a0523906a45db0",
+    "name": "Litecoin",
+    "slug": "litecoin",
+    "tradingSymbol": "ltc"
+  }, {
+    "_id": "59d21e9b83a0523906a45daf",
+    "name": "Bitcoin Cash",
+    "slug": "bitcoin-cash",
+    "tradingSymbol": "bch"
+  }],
+  "_id": "5b3a19b9104844000fd62639",
+  "description": "BTCC, one of the leading trading platforms in China, has announced that it’s ready to launch its crypto exchange business with a plan to issue own tokens. Read on to know more!",
+  "publishedAt": "2018-07-02T12:24:55.000Z",
+  "title": "BTCC Revamps Crypto Exchange with Plan to Issue Own Tokens",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a19b9104844000fd62639?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a19b9104844000fd62639?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://coinfrenzy.io/wp-content/uploads/2018/07/BTCC-revamps-cryptoexchange-01.jpg"
+}]

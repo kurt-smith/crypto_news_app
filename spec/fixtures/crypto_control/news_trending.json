@@ -1,0 +1,297 @@
+[{
+  "hotness": 70858.68355952756,
+  "activityHotness": 0.11397619423751587,
+  "primaryCategory": "Exchanges",
+  "words": 833,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59cb59e81c073f09e76f614b",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "tradingSymbol": "btc"
+  }, {
+    "_id": "59cb59f9b0836b0a63aebc7c",
+    "name": "Ethereum",
+    "tradingSymbol": "eth",
+    "slug": "ethereum"
+  }, {
+    "_id": "59d21e9b83a0523906a45db0",
+    "name": "Litecoin",
+    "slug": "litecoin",
+    "tradingSymbol": "ltc"
+  }, {
+    "_id": "59d21e9b83a0523906a45db6",
+    "name": "Ethereum Classic",
+    "slug": "ethereum-classic",
+    "tradingSymbol": "etc"
+  }, {
+    "_id": "59d21e9b83a0523906a45db3",
+    "name": "NEO",
+    "slug": "neo",
+    "tradingSymbol": "neo"
+  }, {
+    "_id": "59d21e9b83a0523906a45daf",
+    "name": "Bitcoin Cash",
+    "slug": "bitcoin-cash",
+    "tradingSymbol": "bch"
+  }, {
+    "_id": "59d21e9b83a0523906a45db9",
+    "name": "Qtum",
+    "slug": "qtum",
+    "tradingSymbol": "qtum"
+  }],
+  "_id": "5b3a4517104844000fd681a8",
+  "description": "These cryptocurrency exchanges provide a quality trading experience while catering to investors in the United States.",
+  "publishedAt": "2018-07-02T15:25:03.000Z",
+  "title": "The Top 6 Cryptocurrency Exchanges Available to U.S. Investors",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a4517104844000fd681a8?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a4517104844000fd681a8?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://sludgefeed.com/wp-content/uploads/2018/07/bitcoin-trading.jpg"
+}, {
+  "hotness": 70858.67022619423,
+  "activityHotness": 0.11397619423751587,
+  "primaryCategory": "General",
+  "words": 721,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59cb59e81c073f09e76f614b",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "tradingSymbol": "btc"
+  }, {
+    "_id": "59d21e9b83a0523906a45daf",
+    "name": "Bitcoin Cash",
+    "slug": "bitcoin-cash",
+    "tradingSymbol": "bch"
+  }, {
+    "_id": "59d8e9a749f28d5610567413",
+    "name": "Pulse",
+    "slug": "pulse",
+    "tradingSymbol": "pulse"
+  }],
+  "_id": "5b3a4511104844000fd68166",
+  "description": "The bitcoin markets have rallied after having produced 48 hours of steady consolidation following the recent bounce off support at approximately $5,800. Looking at the 24-hour volume rankings, Coinex has suddenly emerged as a strong market leader, claiming to have hosted $1.5 billion in trade in single day.",
+  "publishedAt": "2018-07-02T15:20:15.000Z",
+  "title": "Markets Update: Coinex Dominates Volume Rankings Amid Post-Bounce Consolidation",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a4511104844000fd68166?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a4511104844000fd68166?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://news.bitcoin.com/wp-content/uploads/2018/07/shutterstock_168782201.jpg"
+}, {
+  "hotness": 70858.66230509075,
+  "activityHotness": 0.11133286853070033,
+  "primaryCategory": "General",
+  "words": 414,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59d21e9b83a0523906a45dc5",
+    "name": "EOS",
+    "slug": "eos",
+    "tradingSymbol": "eos"
+  }, {
+    "_id": "59cb59e81c073f09e76f614b",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "tradingSymbol": "btc"
+  }],
+  "_id": "5b3a42a7104844000fd67e07",
+  "description": "All major currencies have once again secured some gains in the past 24 hours. That in itself is very surprising, as things were not looking all that great last night. For EOS price watchers, this current trend comes at an opportune time. With the value fast approaching $9 again, interesting things are bound to happen. […]\n",
+  "publishedAt": "2018-07-02T15:18:21.000Z",
+  "title": "EOS Price: Rocket is Heading to $9 and Beyond | NullTX",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a42a7104844000fd67e07?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a42a7104844000fd67e07?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://nulltx.com/wp-content/uploads/2018/06/eos-price-2.jpg"
+}, {
+  "hotness": 70858.61004629631,
+  "activityHotness": 0.1,
+  "primaryCategory": "Mining",
+  "words": 123,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59d21e9b83a0523906a45db1",
+    "name": "Dash",
+    "slug": "dash",
+    "tradingSymbol": "dash"
+  }],
+  "_id": "5b3a3f28104844000fd677db",
+  "description": "Earlier this year I had the pleasure of presenting at the New Hampshire Liberty Forum on Dash and the global digital cash revolution happening around the world. Dash was a top sponsor of the event, and the on-site team set up 80 new users with wallets, most of whom spent the Dash on-site by purchasing …",
+  "publishedAt": "2018-07-02T15:03:37.000Z",
+  "title": "Dash Presentations at the New Hampshire Liberty Forum - Dash Force News",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a3f28104844000fd677db?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a3f28104844000fd677db?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://www.dashforcenews.com/wp-content/uploads/2018/07/dash-liberty-forum.jpg"
+}, {
+  "hotness": 70858.61325165967,
+  "activityHotness": 0.10769610411361284,
+  "primaryCategory": "General",
+  "words": 40,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59cb59e81c073f09e76f614b",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "tradingSymbol": "btc"
+  }],
+  "_id": "5b3a413f104844000fd67ac2",
+  "description": "Bitcoin was trading up 4.85% Monday morning after a bullish weekend for the digital currency. Track bitcoin in real-time here. Bitcoin was trading up 4.85% Monday morning after a bullish weekend for the largest digital currency by market capitalization. Bitco…",
+  "publishedAt": "2018-07-02T15:02:00.000Z",
+  "title": "Bitcoin is making a comeback",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a413f104844000fd67ac2?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a413f104844000fd67ac2?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://amp.businessinsider.com/images/5b3a366207df111c008b462c-1920-960.jpg"
+}, {
+  "hotness": 70858.60527069504,
+  "activityHotness": 0.10295588022415446,
+  "primaryCategory": "Analysis",
+  "words": 559,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59cb59e81c073f09e76f614b",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "tradingSymbol": "btc"
+  }],
+  "_id": "5b3a3f55104844000fd678b5",
+  "description": "Welcome to Crypto Daily News, this news piece \"Bitcoin (BTC): The Absolute Low Prices Could Fall To Before The...\" is breaking news from the Crypto sector.",
+  "publishedAt": "2018-07-02T15:00:50.000Z",
+  "title": "Bitcoin (BTC): The Absolute Low Prices Could Fall To Before The Next Run Up - Crypto Daily™",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a3f55104844000fd678b5?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a3f55104844000fd678b5?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://cryptodaily.co.uk/wp-content/uploads/2018/07/bitcoin-absolute-1.png"
+}, {
+  "hotness": 70858.6071231871,
+  "activityHotness": 0.10582689081239759,
+  "primaryCategory": "Exchanges",
+  "words": 209,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59d21e9b83a0523906a45df4",
+    "name": "TRON",
+    "slug": "tron",
+    "tradingSymbol": "trx"
+  }, {
+    "_id": "59cb59f9b0836b0a63aebc7c",
+    "name": "Ethereum",
+    "tradingSymbol": "eth",
+    "slug": "ethereum"
+  }],
+  "_id": "5b3a3e14104844000fd674fa",
+  "description": "TRON hasn't made any paper as counsel of perfection. Recently TRON trading Competition held on Binance.They always put it as creative strategy and achieved",
+  "publishedAt": "2018-07-02T15:00:28.000Z",
+  "title": "TRON[TRX] trading Competition on Binance - coinsvarsity Tron News",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a3e14104844000fd674fa?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a3e14104844000fd674fa?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://www.coinsvarsity.com/wp-content/uploads/2018/06/team-3373638_1920.jpg"
+}, {
+  "hotness": 70858.60360402838,
+  "activityHotness": 0.10295588022415446,
+  "primaryCategory": "General",
+  "words": 455,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59cb59e81c073f09e76f614b",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "tradingSymbol": "btc"
+  }],
+  "_id": "5b3a4133104844000fd67aa3",
+  "description": "After a somber June, can Bitcoin traders expect a bullish reversal of fortunes? Graeme Tennant explores in this week's Technical Analysis. #bitcoin",
+  "publishedAt": "2018-07-02T15:00:14.000Z",
+  "title": "Technical Analysis: The first signs of spring for hibernating Bitcoin?",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a4133104844000fd67aa3?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a4133104844000fd67aa3?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://www.coininsider.com/wp-content/uploads/2018/07/technical-1200x630.jpg"
+}, {
+  "hotness": 70858.54361111112,
+  "activityHotness": 0.1,
+  "primaryCategory": "General",
+  "words": 267,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59d8e9a749f28d561056744e",
+    "name": "Enigma",
+    "slug": "enigma",
+    "tradingSymbol": "xng"
+  }, {
+    "_id": "5a1aafdbda3d21115462edf9",
+    "name": "Enigma",
+    "slug": "enigma-project",
+    "tradingSymbol": "eng"
+  }],
+  "_id": "5b3a398a104844000fd66c3a",
+  "description": "Privacy tech company Enigma has recently announced that a brand-new blockchain has officially entered testing. The announcement describes the latest move for the tech giant, that of creating its own hardware-technology. Created entirely at the MIT Media Lab, the project is based on a whitepaper published in 2015. Even though the project has been originally […]\n",
+  "publishedAt": "2018-07-02T14:39:42.000Z",
+  "title": "Enigma Startup Announces Initial Testnet Launch - Coindoo - Crypto News and Reviews",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a398a104844000fd66c3a?ref=5b3a5698104844000fd6a39c"
+}, {
+  "hotness": 70858.49804911303,
+  "activityHotness": 0.10582689081239759,
+  "primaryCategory": "ICO",
+  "words": 463,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59cb59f9b0836b0a63aebc7c",
+    "name": "Ethereum",
+    "tradingSymbol": "eth",
+    "slug": "ethereum"
+  }, {
+    "_id": "59cb59e81c073f09e76f614b",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "tradingSymbol": "btc"
+  }],
+  "_id": "5b3a35c7104844000fd65db4",
+  "description": "At around 2PM London time ethereum jumped from just under $450 to a recent high of nearly $480 before somewhat settling at the time of writing to $470. It looks...",
+  "publishedAt": "2018-07-02T14:21:12.000Z",
+  "title": "Ethereum, Bitcoin Spike as Coinbase Opens to Institutional Investors",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a35c7104844000fd65db4?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a35c7104844000fd65db4?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://www.trustnodes.com/wp-content/uploads/2018/07/crypto-custody.png"
+}, {
+  "hotness": 70858.46406699134,
+  "activityHotness": 0.10295588022415446,
+  "primaryCategory": "Analysis",
+  "words": 188,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59cb59e81c073f09e76f614b",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "tradingSymbol": "btc"
+  }, {
+    "_id": "59d21e9b83a0523906a45db4",
+    "name": "IOTA",
+    "slug": "iota",
+    "tradingSymbol": "miota"
+  }, {
+    "_id": "59d21e9b83a0523906a45dc5",
+    "name": "EOS",
+    "slug": "eos",
+    "tradingSymbol": "eos"
+  }],
+  "_id": "5b3a334f104844000fd6598e",
+  "description": "The cryptocurrency markets are up across the board, as BTC, ETH, and altcoins see green.",
+  "publishedAt": "2018-07-02T14:10:00.000Z",
+  "title": "Bitcoin Breaks $6,500 as Cryptocurrency Market Upswing Continues",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a334f104844000fd6598e?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a334f104844000fd6598e?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://images.cointelegraph.com/images/725_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hMDFjZGM2NTkwMTMzYmI1MjExODlmYmU4M2FiNzhkMS5qcGc=.jpg"
+}, {
+  "hotness": 70858.46111111112,
+  "activityHotness": 0.1,
+  "primaryCategory": "Analysis",
+  "words": 23,
+  "similarArticles": [],
+  "coins": [{
+    "_id": "59cb59e81c073f09e76f614b",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "tradingSymbol": "btc"
+  }],
+  "_id": "5b3a3f34104844000fd67832",
+  "description": "After a sluggish start to the year, bitcoin started the month of July with a 12 percent rebound off of last week’s lows.",
+  "publishedAt": "2018-07-02T14:10:00.000Z",
+  "title": "Bitcoin kicks off second half of the year with a 12% rally",
+  "url": "https://cryptocontrol.io/r/api/article/5b3a3f34104844000fd67832?ref=5b3a5698104844000fd6a39c",
+  "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a3f34104844000fd67832?ref=5b3a5698104844000fd6a39c",
+  "originalImageUrl": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/05/18/105217570-blockchain.1910x1000.jpg"
+}]

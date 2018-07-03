@@ -2,6 +2,7 @@
 
 source 'https://rubygems.org'
 
+gem 'httparty', '~> 0.16'
 gem 'mongoid', '~> 6.4'
 gem 'mongoid_paranoia', '~> 0.3'
 gem 'puma', '~> 3.11'
@@ -26,4 +27,5 @@ group :test do
   gem 'rspec-sidekiq', '~> 3.0'
   gem 'shoulda-matchers', '~> 3.1'
   gem 'simplecov', '~> 0.16'
+  gem 'webmock', '~> 3.4'
 end

@@ -1,0 +1,65 @@
+{
+  "analysis": [{
+    "hotness": 70859.71032189115,
+    "activityHotness": 0.10769610411361284,
+    "primaryCategory": "Analysis",
+    "words": 563,
+    "similarArticles": [{
+      "_id": "5b39c2dd104844000fd579fa",
+      "publishedAt": "2018-07-02T06:14:59.094Z",
+      "title": "Kraken Goes Savage Against Tether Manipulation Allegations - Bitcoin News",
+      "url": "https://cryptocontrol.io/r/api/article/5b39c2dd104844000fd579fa?ref=5b3a5698104844000fd6a39c"
+    }],
+    "coins": [{
+      "_id": "59cb59e81c073f09e76f614b",
+      "name": "Bitcoin",
+      "slug": "bitcoin",
+      "tradingSymbol": "btc"
+    }, {
+      "_id": "59d21e9b83a0523906a45dbe",
+      "name": "Tether",
+      "slug": "tether",
+      "tradingSymbol": "usdt"
+    }],
+    "_id": "5b39d923104844000fd5a2a4",
+    "description": "Crypto exchange Kraken has responded to a recent article by Bloomberg that argues Tether (USDT) is being manipulated on their exchange. Kraken took a dig Crypto exchange Kraken has responded to a recent article by Bloomberg that argues Tether (USDT) is being manipulated on their exchange. Kraken took a dig at the",
+    "publishedAt": "2018-07-02T07:30:26.000Z",
+    "title": "Kraken Claims Bloomberg is Manipulating Bitcoin Futures Market | NewsBTC",
+    "url": "https://cryptocontrol.io/r/api/article/5b39d923104844000fd5a2a4?ref=5b3a5698104844000fd6a39c",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b39d923104844000fd5a2a4?ref=5b3a5698104844000fd6a39c",
+    "originalImageUrl": "https://s3.amazonaws.com/main-newsbtc-images/2018/05/23161836/Bloomberg.jpg"
+  }, {
+    "hotness": 70859.05920248495,
+    "activityHotness": 1.601980262729618,
+    "primaryCategory": "Analysis",
+    "words": 343,
+    "similarArticles": [{
+      "_id": "5b3865d25c5681000f2f757b",
+      "publishedAt": "2018-07-01T01:05:38.000Z",
+      "title": "Abu Dhabi Global Market Launches Crypto Regulatory Framework - Bitcoin News",
+      "url": "https://cryptocontrol.io/r/api/article/5b3865d25c5681000f2f757b?ref=5b3a5698104844000fd6a39c"
+    }],
+    "coins": [],
+    "_id": "5b39e749104844000fd5bf1e",
+    "description": "A new regulatory framework for crypto-related activities has been introduced by the financial authority of Abu Dhabi Global Market (ADGM), following a public consultation. Read on to know more!",
+    "publishedAt": "2018-07-02T08:44:36.000Z",
+    "title": "Financial Authority of Abu Dhabi Global Market Introduces Crypto Regulatory Framework",
+    "url": "https://cryptocontrol.io/r/api/article/5b39e749104844000fd5bf1e?ref=5b3a5698104844000fd6a39c",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b39e749104844000fd5bf1e?ref=5b3a5698104844000fd6a39c",
+    "originalImageUrl": "https://coinfrenzy.io/wp-content/uploads/2018/07/Financial-Authority-of-Abu-Dhabi-Global-Market-01.jpg"
+  }, {
+    "hotness": 70858.78296296297,
+    "activityHotness": 0.1,
+    "primaryCategory": "Analysis",
+    "words": 613,
+    "similarArticles": [],
+    "coins": [],
+    "_id": "5b3a4e68104844000fd694b9",
+    "description": "As July has rolled around, Ripple has continued its decline over the past week, however, the decline has become less steep as Ripple loses a total of 4.72% in value over the past 7 trading days. The crypto token is currently trading at a price of $0.4589 and is down by a total of 0.22% …",
+    "publishedAt": "2018-07-02T16:05:52.000Z",
+    "title": "Ripple (XRP) Price Prediction - XRP Begins July by Trading at April Lows - Crypto-News India",
+    "url": "https://cryptocontrol.io/r/api/article/5b3a4e68104844000fd694b9?ref=5b3a5698104844000fd6a39c",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3a4e68104844000fd694b9?ref=5b3a5698104844000fd6a39c",
+    "originalImageUrl": "https://www.crypto-news.in/wp-content/uploads/2018/06/Ripple-South-Korea.jpg"
+  }]
+}
