@@ -10,11 +10,13 @@ RSpec.configure do |config|
   config.order = :random
 
   config.before(:suite) do
-    # DatabaseCleaner[:mongoid].strategy = :truncation
-    # DatabaseCleaner.clean_with(:truncation)
+    DatabaseCleaner[:mongoid].strategy = :truncation
+    DatabaseCleaner.clean_with(:truncation)
   end
 
   config.around(:each) do |example|
+    Faker::UniqueGenerator.clear
+
     DatabaseCleaner.cleaning do
       example.run
     end
