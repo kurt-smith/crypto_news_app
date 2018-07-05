@@ -9,7 +9,7 @@ describe Search do
   it { is_expected.to have_field(:source).of_type(String) }
   it { is_expected.to have_field(:type).of_type(String) }
   it { is_expected.to have_field(:request_ip).of_type(String) }
-  it { is_expected.to have_field(:results).of_type(Hash) }
+  it { is_expected.to have_field(:results).of_type(Array) }
 
   it { is_expected.to have_timestamps }
   it { is_expected.to have_field(:deleted_at).of_type(Time).with_default_value_of(nil) }

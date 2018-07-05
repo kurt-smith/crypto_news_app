@@ -11,7 +11,7 @@ class Search
   field :source, type: String
   field :type, type: String
   field :request_ip, type: String # TODO: Research best data type to use. Most likely not string
-  field :results, type: Hash # TODO: Test amount of data returned. Useful for historical search results
+  field :results, type: Array # TODO: Test amount of data returned. Useful for historical search results
 
   validates :keyword, presence:   { message: 'is required' },
                       length:     { minimum: 1, maximum: 255,
