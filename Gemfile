@@ -15,6 +15,7 @@ gem 'jquery-rails',     '~> 4.3'
 gem 'jquery_match_height_rails'
 gem 'material_icons',   '~> 2.2'
 gem 'materialize-sass', '~> 1.0.0.rc2'
+gem 'uglifier',         '~> 4.1'
 
 group :development, :test do
   gem 'factory_bot_rails', '~> 4.10'
