@@ -1,0 +1,88 @@
+<div id="index-banner" class="parallax-container">
+  <div class="section no-pad-bot">
+    <div class="container">
+      <div class="row center header-subtext">
+        <h5 class="header col s12 light">Trending Cryptocurrency News</h5>
+      </div>
+
+      <div class="row center">
+        <%= form_tag({ controller: :search, action: :trending_by_coin }, id: 'search_by_coin', class: 'col s12', method: :get, remote: true) do %>
+          <div class="row">
+            <div class="input-field col s12">
+              <input type="text" name="coin_name" id="coin_name" class="materialize-textarea" placeholder="bitcoin, litecoin, ethereum, etc."></input>
+              <label for="coin_name"><%= material_icon.search %> Search by Coin Name</label>
+            </div>
+          </div>
+
+          <button type="submit" class="waves-effect waves-light btn-large">
+            Search
+          </button>
+        <% end %>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="row">
+
+  <!-- Search History -->
+  <div class="col s12 m4 l3" id="recent_searches">
+    <% if @recent_searches.blank? %>
+      <small class="grey-text text-darken-2">No Search History</small>
+    <% else %>
+      <div class="search-history">
+        <h5 class="grey-text text-darken-2 center">Search History</h5>
+
+        <!-- Search history is sortable by date/count/search term -->
+        <%= form_tag({ controller: :search, action: :history }, id: 'historical_search', class: 'col s12', method: :get, remote: true) do %>
+          <select name="sort_by" class="browser-default col s5">
+            <option value="created_at" selected>Date</option>
+            <option value="count">Count</option>
+            <option value="keyword">Keyword</option>
+          </select>
+
+          <select name="order_by" class="browser-default col s5">
+            <option value="asc" selected>ASC</option>
+            <option value="desc">DESC</option>
+          </select>
+
+          <input type="hidden" name="search_type" value="historical_search">
+
+          <div class="col s2">
+            <button type="submit" class="waves-effect waves-light btn-small">
+              <%= material_icon.search %>
+            </button>
+          </div>
+        </div><!-- end of search history form  -->
+
+        <ul class="collection keyword-collection">
+          <% @recent_searches.each do |keyword, results| %>
+            <%= render partial: 'shared/components/search_item',
+                       locals: { keyword: keyword, results: results } %>
+          <% end %>
+        </ul>
+      <% end # form tag %>
+    <% end # if/else %>
+
+    <section id="search_history_details" style="display:none;">
+      <h6>Previous Searches</h6>
+
+      <table id="search_results">
+        <tbody class="teal-text lighten-4 center" style="font-size:0.75rem;">
+        </tbody>
+      </table>
+    </section>
+  </div>
+
+  <!-- News Articles -->
+  <div class="col s12 m8 l9">
+    <div class="row center" id="trending_coin_news">
+      <%= 'No Trending News' if @search.blank? %>
+      <% @search.each do |resp| %>
+        <%= render partial: 'shared/components/news_card',
+                   locals: { image_url: resp[:originalImageUrl], title: resp[:title], subtitle: resp[:description], url: resp[:url], status: 200 } %>
+      <% end %>
+    </div>
+  </div>
+</div>

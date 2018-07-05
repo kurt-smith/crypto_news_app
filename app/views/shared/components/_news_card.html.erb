@@ -1,0 +1,16 @@
+<% if status.to_i.in?(400..499) %>
+  <h2 class="center text-grey">An error occurred. Please try again</h2>
+<% else %>
+  <div class="col s12 m6 l4 news-card" data-url="<%= url %>">
+    <div class="card">
+      <div class="card-image">
+        <%= image_url.present? ? image_tag(image_url) : image_tag("network.jpg") %>
+      </div>
+      <div class="card-content">
+        <h6><%= title %></h6>
+        <hr>
+        <p><%= subtitle&.html_safe %></p>
+      </div>
+    </div>
+  </div>
+<% end %>

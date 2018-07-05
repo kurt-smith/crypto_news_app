@@ -1,0 +1,8 @@
+historyCollection = $('ul.keyword-collection');
+historyCollection.hide().html(''); // hide the view while we add content
+
+<% @history.each do |keyword, results| %>
+  historyCollection.append('<%= j render(partial: "shared/components/search_item", locals: { keyword: keyword, results: results }) %>');
+<% end %>
+
+historyCollection.show();

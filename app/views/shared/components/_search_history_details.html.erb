@@ -1,0 +1,5 @@
+<tr>
+  <td><%= search[:request_ip] %></td>
+  <td><%= search[:created_at] %></td>
+  <td><%= pluralize(search[:results].count, 'Result') %></td>
+</tr>

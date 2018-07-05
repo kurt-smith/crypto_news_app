@@ -1,0 +1,37 @@
+// search history view
+historyCollection = $('ul.keyword-collection');
+historyCollection.hide().html(''); // hide the view while we add content
+
+<% @recent_searches.each do |keyword, results| %>
+  historyCollection.append('<%= j render(partial: "shared/components/search_item", locals: { keyword: keyword, results: results }) %>');
+<% end %>
+
+// detailed search history view
+historyDetails = $('#search_history_details');
+historyDetails.hide(); // hide the view while we add content
+historyDetailsTableBody = historyDetails.find('table tbody');
+historyDetailsTableBody.html('');
+
+// Add previous search details
+<% @search_details.each do |search| %>
+  historyDetailsTableBody.append('<%= j render(partial: "shared/components/search_history_details", locals: { search: search }) %>');
+<% end %>
+
+// coin news cards by keyword
+trendingNews = $('#trending_coin_news');
+trendingNews.hide().html(''); // hide the view while we add content
+
+// iterate results
+<% @results.each do |resp| %>
+  trendingNews.append('<%= j render partial: "shared/components/news_card", locals: { image_url: resp[:originalImageUrl], title: resp[:title], subtitle: resp[:description], url: resp[:url], status: resp[:status] } %>');
+<% end %>
+
+historyCollection.show();
+historyDetails.show();
+trendingNews.show();
+
+// resize cards after content load
+// TODO: Not working.. look into
+$('.card-image').on('load', function() {
+ $('.news-card > .card').matchHeight();
+});

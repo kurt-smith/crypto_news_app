@@ -16,6 +16,7 @@ class SearchController < ApplicationController
     search.save if search.valid?
     @results = search[:results]
     recent_searches
+    @search_details = @recent_searches.find { |k, _v| k == search_params[:coin_name] }&.last
 
     respond_to :js
   end
