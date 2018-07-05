@@ -21,7 +21,7 @@ class SearchController < ApplicationController
     respond_to :js
   end
 
-  # returns queried search history
+  # Returns queried search history
   # @note JS response only
   def history
     search = @recent_searches.sort_by do |key, arr|
@@ -43,6 +43,7 @@ class SearchController < ApplicationController
     params.permit(:sort_by, :order_by, :search_type)
   end
 
+  # @return [Boolean]
   def order_descending?
     search_history_params[:order_by].eql?('desc')
   end
